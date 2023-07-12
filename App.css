@@ -1,0 +1,45 @@
+.App{
+  text-align: center;
+  margin-top: 150px;
+  background-color: #65799b;
+  height: 500px;
+  width: 40%;
+  margin-left: 450px;
+  border-radius: 30px;
+  color: white;
+
+}
+.app-text{
+  margin-top:20px;
+  
+}
+.app-color{
+
+  height: 350px;
+  width: 50%;
+  margin-left: 170px;
+
+}
+.input{
+  padding:10px;
+  border-radius: 10px;
+  margin-top: 10px;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  margin-left: -20px;
+  background-color: black;
+  color: white;
+
+}
+.btn{
+   color: white;
+   background-color:black;
+   height: 50px;
+   width: 300px;
+   border-radius: 10px;
+   margin-top: 10px;
+   font-size: large;
+   margin-left: -20px;
+
+}
